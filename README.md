@@ -1,3 +1,10 @@
+# Fullstack Developer (React.js, Python, Node.js)
+Experienced software engineer with over five years in the industry, specializing in full-stack development. Core competencies include:
+
+Frontend: Extensive expertise in React.js, creating responsive and performant user interfaces
+Backend: Strong proficiency in Python and Node.js for robust server-side applications
+Full-stack: Seamlessly integrating frontend and backend technologies to deliver cohesive web solutions
+
 # python数字货币量化交易视频代码
 youtube视频链接: [https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos](https://www.youtube.com/channel/UCjCMoRi4dZ6LRV2KL_RP8KQ/videos)
 
